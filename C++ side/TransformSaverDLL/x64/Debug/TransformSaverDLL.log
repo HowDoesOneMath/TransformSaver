@@ -1,0 +1,4 @@
+﻿  Wrapper.cpp
+C:\Users\jakob\OneDrive\Documents\_YEAR_3\Game Engine Design\TransformSaverDLL\TransformSaverDLL\TransformSaverDLL\SaveLoad.h(15): warning C4251: 'SaveLoad::filePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'SaveLoad'
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(4167): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TransformSaverDLL.vcxproj -> C:\Users\jakob\OneDrive\Documents\_YEAR_3\Game Engine Design\TransformSaverDLL\TransformSaverDLL\x64\Debug\TransformSaverDLL.dll
